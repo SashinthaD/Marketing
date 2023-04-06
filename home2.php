@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 
-	<title>Ceramic World</title>
+	<title>Noritake</title>
 
 
 
